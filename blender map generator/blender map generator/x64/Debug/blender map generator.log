@@ -1,0 +1,5 @@
+﻿  Kaynak.cpp
+C:\Users\90542\Desktop\game\denemeler\blender map generator\blender map generator\Kaynak.cpp(24,9): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\90542\Desktop\game\denemeler\blender map generator\blender map generator\Kaynak.cpp(25,9): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\90542\Desktop\game\denemeler\blender map generator\blender map generator\Kaynak.cpp(26,9): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  blender map generator.vcxproj -> C:\Users\90542\Desktop\game\denemeler\blender map generator\x64\Debug\blender map generator.exe
